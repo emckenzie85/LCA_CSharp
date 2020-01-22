@@ -46,34 +46,34 @@ namespace RockPaperScissors
                     Console.WriteLine("Paper covers rock, you lose! ");
 
                 }
-                else if (userChoice == "paper")
+                else if (userChoice == "paper ")
                 {
-                    Console.WriteLine("The system chose scissors");
+                    Console.WriteLine("The system chose scissors ");
                     Console.WriteLine("Scissors cut paper, you lose! ");
 
                 }
-                else if (userChoice == "scissors")
+                else if (userChoice == "scissors ")
                 {
-                    Console.WriteLine("The system chose rock");
+                    Console.WriteLine("The system chose rock ");
                     Console.WriteLine("Rock breaks scissors, you lose! ");
                 }
                 else
                 {
-                    Console.WriteLine("You must choose rock,paper or scissors!");
+                    Console.WriteLine("Only rock, paper, or scissors will be accepted as an answer! ");
                 }
             }
             else if (computerChoice == 3)
             {
                 if (userChoice == "rock")
                 {
-                    Console.WriteLine("The system chose scissors");
-                    Console.WriteLine("Rock breaks scissors, You Win!!!");
+                    Console.WriteLine("The system chose scissors ");
+                    Console.WriteLine("Rock breaks scissors, You Win!!! ");
 
                 }
                 else if (userChoice == "paper")
                 {
-                    Console.WriteLine("The system chose rock");
-                    Console.WriteLine("Paper covers rock, You Win!!!");
+                    Console.WriteLine("The system chose rock ");
+                    Console.WriteLine("Paper covers rock, You Win!!! ");
 
                 }
                 else if (userChoice == "scissors")
