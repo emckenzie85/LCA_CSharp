@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebook", "Gradebook\Gradebook.csproj", "{D3BB9C2A-27CF-4C6A-8D60-DA06FBE32FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BB9C2A-27CF-4C6A-8D60-DA06FBE32FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BB9C2A-27CF-4C6A-8D60-DA06FBE32FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BB9C2A-27CF-4C6A-8D60-DA06FBE32FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BB9C2A-27CF-4C6A-8D60-DA06FBE32FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68BFB393-B140-4482-99AF-B643BE744513}
+	EndGlobalSection
+EndGlobal
