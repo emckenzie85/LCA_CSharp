@@ -1,0 +1,11 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\bin\Debug\netcoreapp3.1\PoCos.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\obj\Debug\netcoreapp3.1\PoCos.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\obj\Debug\netcoreapp3.1\PoCos.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\obj\Debug\netcoreapp3.1\PoCos.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\obj\Debug\netcoreapp3.1\PoCos.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\PoCos\PoCos\obj\Debug\netcoreapp3.1\PoCos.pdb
