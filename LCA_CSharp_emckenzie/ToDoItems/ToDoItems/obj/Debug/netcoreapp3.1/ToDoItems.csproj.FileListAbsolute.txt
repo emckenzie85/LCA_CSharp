@@ -1,0 +1,11 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\bin\Debug\netcoreapp3.1\ToDoItems.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp_emckenzie\ToDoItems\ToDoItems\obj\Debug\netcoreapp3.1\ToDoItems.pdb
