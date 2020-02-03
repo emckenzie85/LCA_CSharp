@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\Gradebook\\Gradebook\\Gradebook.csproj": {}
+    "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\LCA_CSharp_emckenzie\\Gradebook\\Gradebook\\Gradebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\Gradebook\\Gradebook\\Gradebook.csproj": {
+    "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\LCA_CSharp_emckenzie\\Gradebook\\Gradebook\\Gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\Gradebook\\Gradebook\\Gradebook.csproj",
+        "projectUniqueName": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\LCA_CSharp_emckenzie\\Gradebook\\Gradebook\\Gradebook.csproj",
         "projectName": "Gradebook",
-        "projectPath": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\Gradebook\\Gradebook\\Gradebook.csproj",
+        "projectPath": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\LCA_CSharp_emckenzie\\Gradebook\\Gradebook\\Gradebook.csproj",
         "packagesPath": "C:\\Users\\emcke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\Gradebook\\Gradebook\\obj\\",
+        "outputPath": "C:\\Users\\emcke\\Documents\\DevFolder\\LCA_CSharp\\LCA_CSharp_emckenzie\\Gradebook\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emcke\\AppData\\Roaming\\NuGet\\NuGet.Config",

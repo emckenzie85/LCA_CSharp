@@ -1,49 +1,66 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
-class ConsoleApplication1
+namespace GR4D3B00K
 {
-    public static void Main()
+    class Program
     {
-        List<Student> students = new List<Student>();
-
-        for (int index = 0; index < 5; index++)
+        private static void Main(string[] args)
         {
-            Student newStudent = new Student();
-            Console.Write("Enter Student's Name or 'QUIT' : ");
-            string name = Console.ReadLine();
-            if (name == "QUIT")
-                break;
-                List<Exam> grades = new List<Exam>();
 
-            for (int jIndx = 0; jIndx < 5; jIndx++)
+            string answer = string.Empty;
+            string quitProgram = string.Empty;
+            Dictionary<string, string> gradeBook = new Dictionary<string, string>();
+            string[] seperator = { " " };
+
+            do
             {
-                Console.Write("Enter Student's Grades with Spaces Between (100 90 80 70 60): ");
-                int grade = int.Parse(Console.ReadLine());
-                Exam res = new Exam();
-                res.Grade = grade;
-                grades.Add(res);
-            }
+                Console.WriteLine("\nPlease enter student's name or QUIT\n");
+                string studentName = Console.ReadLine();
+                if (studentName == "QUIT")
+                    break;
 
-            newStudent.Name = name;
-            newStudent.Result = grades;
-            students.Add(newStudent);
-        }
-        {
-            Console.WriteLine("Subject: " + exam.Subject);
-            Console.WriteLine("Grade: " + exam.Grade);
+                Console.WriteLine("\nNow enter student's grades, seperated by spaces (100 90 80 90 70) then press ENTER\n");
+                string studentGrades = Console.ReadLine();
+
+                gradeBook.Add(studentName, studentGrades);
+
+                Console.WriteLine("\n Press ENTER to add another student, or type 'C' to continue");
+                answer = Console.ReadLine();
+
+            } while (answer != "C");
+
+            List<int> gradeList = new List<int>();
+            List<int> total = new List<int>();
+
+            int totalGrade;
+            int avgGrade;
+            int highGrade;
+            int lowGrade;
+
+            foreach (KeyValuePair<string, string> entry in gradeBook)
+            {
+
+                String[] gradeArray = entry.Value.Split(" ");
+                lowGrade = Convert.ToInt32(gradeArray.Min());
+                highGrade = Convert.ToInt32(gradeArray.Max());
+
+
+                for (int i = 0; i < gradeArray.Length; i++)
+                {
+                    total.Add(Convert.ToInt32(gradeArray[i]));
+                }
+
+                totalGrade = total.Sum();
+                avgGrade = totalGrade / gradeArray.Length;
+
+                Console.WriteLine("Student: {0}", entry.Key);
+                Console.WriteLine("Grades: {0}", entry.Value);
+                Console.WriteLine("High: {0} Low: {1} ", highGrade, lowGrade);
+                Console.WriteLine("Grade Average: {0}", avgGrade);
+
+            }
         }
     }
-}
-
-public class Student
-{
-    public string Name { get; set; }
-    public List<Exam> Result { get; set; }
-}
-
-public class Exam
-{
-    public string Subject { get; set; }
-    public int Grade { get; set; }
 }

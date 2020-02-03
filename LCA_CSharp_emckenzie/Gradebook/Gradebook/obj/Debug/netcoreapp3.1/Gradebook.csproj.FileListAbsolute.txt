@@ -9,3 +9,14 @@ C:\Users\emcke\Documents\DevFolder\LCA_CSharp\Gradebook\Gradebook\obj\Debug\netc
 C:\Users\emcke\Documents\DevFolder\LCA_CSharp\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfo.cs
 C:\Users\emcke\Documents\DevFolder\LCA_CSharp\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.dll
 C:\Users\emcke\Documents\DevFolder\LCA_CSharp\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Gradebook\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.pdb
