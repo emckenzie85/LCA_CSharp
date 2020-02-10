@@ -1,0 +1,11 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\bin\Debug\netcoreapp3.1\Superheroes.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\obj\Debug\netcoreapp3.1\Superheroes.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\obj\Debug\netcoreapp3.1\Superheroes.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\obj\Debug\netcoreapp3.1\Superheroes.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\obj\Debug\netcoreapp3.1\Superheroes.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Superheroes\Superheroes\obj\Debug\netcoreapp3.1\Superheroes.pdb
