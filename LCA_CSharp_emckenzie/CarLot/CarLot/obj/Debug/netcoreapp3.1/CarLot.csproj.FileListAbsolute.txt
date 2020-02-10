@@ -1,0 +1,11 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\bin\Debug\netcoreapp3.1\CarLot.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\obj\Debug\netcoreapp3.1\CarLot.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\obj\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\CarLot\CarLot\obj\Debug\netcoreapp3.1\CarLot.pdb
