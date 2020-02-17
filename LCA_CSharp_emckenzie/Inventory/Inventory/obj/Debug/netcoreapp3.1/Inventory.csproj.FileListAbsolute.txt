@@ -1,0 +1,11 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
