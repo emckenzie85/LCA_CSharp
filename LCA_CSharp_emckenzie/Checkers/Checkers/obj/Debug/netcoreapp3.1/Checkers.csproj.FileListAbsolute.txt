@@ -1,0 +1,4 @@
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Checkers\Checkers\obj\Debug\netcoreapp3.1\Checkers.csprojAssemblyReference.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Checkers\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfoInputs.cache
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Checkers\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfo.cs
+C:\Users\emcke\Documents\DevFolder\LCA_CSharp\LCA_CSharp_emckenzie\Checkers\Checkers\bin\Debug\netcoreapp3.1\Checkers.exe

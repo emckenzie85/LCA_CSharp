@@ -1,0 +1,24 @@
+CREATE TABLE BOOKS (
+    id     BOOKS,
+    Title  VARCHAR (20),
+    Author VARCHAR (20) 
+);
+
+INSERT INTO BOOKS (id, TITLE, AUTHOR) VALUES
+(1, 'The Hobbit', 'J.R.R. Tolkien');
+
+INSERT INTO BOOKS (id, TITLE, AUTHOR) VALUES
+(2, 'The Cat in the Hat', 'Dr. Seuss');
+
+INSERT INTO BOOKS (id, TITLE, AUTHOR) VALUES
+(3, 'Tom Sawyer', 'Mark Twain');
+
+SELECT * FROM BOOKS;
+
+SELECT * FROM BOOKS WHERE id = 1;
+
+SELECT TITLE FROM BOOKS WHERE id !;
+
+UPDATE BOOKS SET TITLE = 'Huckleberry Finn' WHERE id = 3;
+
+DELETE FROM BOOKS WHERE id = 2;
