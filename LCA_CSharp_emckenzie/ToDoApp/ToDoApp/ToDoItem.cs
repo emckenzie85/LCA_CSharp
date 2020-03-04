@@ -10,11 +10,6 @@ namespace ToDoApp
         public string Description { get; set; }
         public string Status { get; set; }
 
-        public ToDoItem()
-        {
-
-        }
-
         public ToDoItem(string Description)
         {
             this.Description = Description;
